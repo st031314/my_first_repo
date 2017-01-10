@@ -1,1 +1,1 @@
-puts hellos
+puts hello
